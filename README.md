@@ -31,6 +31,8 @@ And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as :
     - QR Code Component > [Live Site URL 7]
     - NFT Preview Card Component > [Live Site URL 8]
     - Order Summary Component > [Live Site URL 9]
+    - Stats Preview Card Component > [Live Site URL 10]
+    - 3-Column Preview Card Component > [Live Site URL 11]
 
 And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from youtube
 
@@ -61,4 +63,6 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URL 7]: <https://mohamed-waled.github.io/Qr-Code-Component-Main/>
 [Live Site URL 8]: <https://mohamed-waled.github.io/NFT-Preview-Card-Component/>
 [Live Site URL 9]: <https://mohamed-waled.github.io/Order-Summary-Component/>
+[Live Site URL 10]: <https://mohamed-waled.github.io/Stats-Preview-Card-Component/>
+[Live Site URL 11]: <https://mohamed-waled.github.io/3-Column-Preview-Card-Component/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
