@@ -44,7 +44,7 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 
 # Some Important Profiles of Mine 💻
 
-- Front-End Mentor - [@Mohamed-Waled]
+- Front-End Mentor - [@Mohamed-Waled2]
 - CSS Battle - [@m_4_]
 - FreeCodeCamp - [@mohamedwaledfarag]
 
@@ -76,6 +76,6 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URl 12]: <https://mohamed-waled.github.io/Profile-Card-Component/>
 [Live Site URl 13]: <https://mohamed-waled.github.io/Social-Proof-Section/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
-[@Mohamed-Waled]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
+[@Mohamed-Waled2]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
 [@mohamedwaledfarag]: <https://www.freecodecamp.org/mohamedwaledfarag>
