@@ -41,12 +41,13 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 ### And That's It, Nice to Meet You All ❤️ 👋 .
 
 ---
+
 # Some Important Profiles of Mine 💻
 
 - Front-End Mentor - [@Mohamed-Waled]
 - CSS Battle - [@m_4_]
 - FreeCodeCamp - [@mohamedwaledfarag]
----
+
 # Get in Touch 📞
 
 - Linkedin - [@mohamed-waled]
