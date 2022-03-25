@@ -33,6 +33,8 @@ And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as :
     - Order Summary Component > [Live Site URL 9]
     - Stats Preview Card Component > [Live Site URL 10]
     - 3-Column Preview Card Component > [Live Site URL 11]
+    - Profile Card Component > [Live Site URl 12]
+    - Social Proof Section > [Live Site URl 13]
 
 And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from youtube
 
@@ -65,4 +67,6 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URL 9]: <https://mohamed-waled.github.io/Order-Summary-Component/>
 [Live Site URL 10]: <https://mohamed-waled.github.io/Stats-Preview-Card-Component/>
 [Live Site URL 11]: <https://mohamed-waled.github.io/3-Column-Preview-Card-Component/>
+[Live Site URl 12]: <https://mohamed-waled.github.io/Profile-Card-Component/>
+[Live Site URl 13]: <https://mohamed-waled.github.io/Social-Proof-Section/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
