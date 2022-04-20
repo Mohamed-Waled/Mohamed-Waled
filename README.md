@@ -37,6 +37,7 @@ And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as :
     - Social Proof Section > [Live Site URl 13]
     - Four Card Feature Section > [Live Site URL 14]
     - Single Price Grid Component > [Live Site URL 15]
+    - Huddle Landing Page With a Single Introductory Section > [Live Site URL 16]
 
 And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from youtube
 
@@ -79,6 +80,7 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URl 13]: <https://mohamed-waled.github.io/Social-Proof-Section/>
 [Live Site URL 14]: <https://mohamed-waled.github.io/Four-Card-Feature-Section/>
 [Live Site URL 15]: <https://mohamed-waled.github.io/Single-Price-Grid-Component/>
+[Live Site URL 16]: <https://mohamed-waled.github.io/Huddle-Landing-Page-With-a-Single-Introductory-Section/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
 [@Mohamed-Waled2]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
