@@ -42,6 +42,7 @@ And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as :
     - Fylo Data Storage Component > [Live Site URL 18]
     - Clipboard Landing Page > [Live Site URL 19]
     - Huddle Landing Page With Alternating Feature Blocks > [Live Site URL 20]
+    - Fylo Landing Page With Two Column Layout > [Live Site URL 21]
 
 And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from youtube
 
@@ -89,6 +90,7 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URL 18]: <https://mohamed-waled.github.io/Fylo-Data-Storage-Component/>
 [Live Site URL 19]: <https://mohamed-waled.github.io/Clipboard-Landing-Page/>
 [Live Site URL 20]: <https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/>
+[Live Site URL 20]: <https://mohamed-waled.github.io/Fylo-Landing-Page-With-Two-Column-Layout/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
 [@Mohamed-Waled2]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
