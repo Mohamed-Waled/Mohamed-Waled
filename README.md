@@ -76,7 +76,7 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URL 4]: <https://mohamed-waled.github.io/Product-Landing-Page/>
 [Live Site URL 5]: <https://mohamed-waled.github.io/Technical-Documentation-Page/>
 [Live Site URL 6]: <https://mohamed-waled.github.io/Personal-Portfolio-Webpage/>
-[Live Site URL 7]: <https://mohamed-waled.github.io/Qr-Code-Component/>
+[Live Site URL 7]: <https://mohamed-waled.github.io/QR-Code-Component/>
 [Live Site URL 8]: <https://mohamed-waled.github.io/NFT-Preview-Card-Component/>
 [Live Site URL 9]: <https://mohamed-waled.github.io/Order-Summary-Component/>
 [Live Site URL 10]: <https://mohamed-waled.github.io/Stats-Preview-Card-Component/>
