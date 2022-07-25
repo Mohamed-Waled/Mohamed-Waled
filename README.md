@@ -2,21 +2,21 @@
 
 ---
 
-## Small Story About Me 👨‍💻 :
+## Small Story About Me 👨‍💻:
 
 I'm an engineering student at the Faculty of Engineering, Ain Shams University, who has
 a passion for the field of web development especially Front-End Development for now.
 
 I've started learning web development for the first time from an Egyptian free scholarship 
 called Egypt Future Work Is Digital [egFWD] powerd by the Ministry of Communication and 
-Information Technology and I've finished the first two levels at it :
+Information Technology and I've finished the first two levels at it:
 
 - The Web Development Challenger Track > [The Certificate 1]
 - Front End Web Development Professional with two projects > [The Certificate 2]
     - Landing Page > [Live Site URL 1]
     - Weather Journal App
 
-Then I took Responsive Web Design Course at FreeCodeCamp [FCC] :
+Then I took Responsive Web Design Course at FreeCodeCamp [FCC]:
 
 - Responsive Web Design with five Projects > [The Certificate 3]
     - Tribute Page > [Live Site URL 2]
@@ -24,8 +24,15 @@ Then I took Responsive Web Design Course at FreeCodeCamp [FCC] :
     - Product Landing Page > [Live Site URL 4]
     - Technical Documentation Page > [Live Site URL 5]
     - Personal Portfolio Webpage > [Live Site URL 6]
+- JavaScript Algorithms and Data Structures with five Projects > [The Certificate 4]
+    - Palindrome Checker
+    - Roman Numeral Converter
+    - Caesars Cipher
+    - Telephone Number Validator
+    - Cash Register
+P.S. You can find all of them with the solutions in the certificate link.
 
-And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as :
+And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as:
 
 - Frontend Mentore :
     - QR Code Component > [Live Site URL 7]
@@ -45,7 +52,14 @@ And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as :
     - Fylo Landing Page With Two Column Layout > [Live Site URL 21]
     - Product Preview Card Component > [Live Site URL 22]
 
-And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from youtube
+Now I'm Just Making Some Websites and App Foe The Purpose of Training and Upgrade My Skills:
+
+- Don't Hesitate About Trying Them
+    - webSite > [Live Site URL 23]
+    - Distance Calculator Between Two Points V 2.0 > [Live Site URL 24]
+    - To-Do App > [Live Site URL 25]
+
+And now I'm learning React and I'm Trying to Learn it From The DOCs.
 
 ### And That's It, Nice to Meet You All ❤️ 👋 .
 
@@ -56,6 +70,7 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 - Front-End Mentor - [@Mohamed-Waled2]
 - CSS Battle - [@m_4_]
 - FreeCodeCamp - [@mohamedwaledfarag]
+- Leet Code - [@MohamedWaled]
 
 # Get in Touch 📞
 
@@ -71,6 +86,7 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [The Certificate 1]: <https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/dc0c4d79-c6c8-4a27-95f4-0d7a86d703aa.pdf>
 [The Certificate 2]: <https://graduation.udacity.com/confirm/KKHPEC4K>
 [The Certificate 3]: <https://www.freecodecamp.org/certification/mohamedwaledfarag/responsive-web-design>
+[The Certificate 4]: <https://www.freecodecamp.org/certification/mohamedwaledfarag/javascript-algorithms-and-data-structures>
 [Live Site URL 1]: <https://mohamed-waled.github.io/Landing-Page/>
 [Live Site URL 2]: <https://mohamed-waled.github.io/Tribute-Page/>
 [Live Site URL 3]: <https://mohamed-waled.github.io/Survey-Form/>
@@ -93,7 +109,11 @@ And now I'm learning JavaScript from FreeCodeCamp and [Elzero web school] from y
 [Live Site URL 20]: <https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/>
 [Live Site URL 21]: <https://mohamed-waled.github.io/Fylo-Landing-Page-With-Two-Column-Layout/>
 [Live Site URL 22]: <https://mohamed-waled.github.io/Product-Preview-Card-Component/>
+[Live Site URL 23]: <https://mohamed-waled.github.io/webSite/>
+[Live Site URL 24]: <https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/>
+[Live Site URL 25]: <https://mohamed-waled.github.io/To-Do-App/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
 [@Mohamed-Waled2]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
 [@mohamedwaledfarag]: <https://www.freecodecamp.org/mohamedwaledfarag>
+[@MohamedWaled]: <https://leetcode.com/MohamedWaled/>
