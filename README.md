@@ -30,7 +30,15 @@ Then I took Responsive Web Design Course at FreeCodeCamp [FCC]:
     - Caesars Cipher
     - Telephone Number Validator
     - Cash Register
+
 P.S. You can find all of them with the solutions in the certificate link.
+
+- Front End Development Libraries with five Projects > [The Certificate 5]
+    - Random Quote Machine > [Live Site URL 26]
+    - Markdown Previewer > [Live Site URL 27]
+    - Drum Machine > [Live Site URL 28]
+    - JavaScript Calculator > [Live Site URL 29]
+    - A 25 + 5 Clock > [Live Site URL 30]
 
 And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as:
 
@@ -87,6 +95,7 @@ And now I'm learning React and I'm Trying to Learn it From The DOCs.
 [The Certificate 2]: <https://graduation.udacity.com/confirm/KKHPEC4K>
 [The Certificate 3]: <https://www.freecodecamp.org/certification/mohamedwaledfarag/responsive-web-design>
 [The Certificate 4]: <https://www.freecodecamp.org/certification/mohamedwaledfarag/javascript-algorithms-and-data-structures>
+[The Certificate 5]: <https://www.freecodecamp.org/certification/mohamedwaledfarag/front-end-development-libraries>
 [Live Site URL 1]: <https://mohamed-waled.github.io/Landing-Page/>
 [Live Site URL 2]: <https://mohamed-waled.github.io/Tribute-Page/>
 [Live Site URL 3]: <https://mohamed-waled.github.io/Survey-Form/>
@@ -112,6 +121,11 @@ And now I'm learning React and I'm Trying to Learn it From The DOCs.
 [Live Site URL 23]: <https://mohamed-waled.github.io/webSite/>
 [Live Site URL 24]: <https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/>
 [Live Site URL 25]: <https://mohamed-waled.github.io/To-Do-App/>
+[Live Site URL 26]: <https://celebrated-lily-314c2f.netlify.app/>
+[Live Site URL 27]: <https://gleaming-cat-7869fa.netlify.app/>
+[Live Site URL 28]: <https://snazzy-fox-9f6d70.netlify.app/>
+[Live Site URL 29]: <https://eclectic-florentine-7a0829.netlify.app/>
+[Live Site URL 30]: <https://singular-toffee-9e5822.netlify.app/>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
 [@Mohamed-Waled2]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
