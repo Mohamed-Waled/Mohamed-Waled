@@ -73,6 +73,10 @@ And now I'm learning React and I'm Trying to Learn it From The DOCs.
 
 ---
 
+# My Newly Launched Portfolio Website
+
+- Mohamed Wales's - [🔗]
+
 # Some Important Profiles of Mine 💻
 
 - Front-End Mentor - [@Mohamed-Waled2]
@@ -131,3 +135,4 @@ And now I'm learning React and I'm Trying to Learn it From The DOCs.
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
 [@mohamedwaledfarag]: <https://www.freecodecamp.org/mohamedwaledfarag>
 [@MohamedWaled]: <https://leetcode.com/MohamedWaled/>
+[🔗]: <https://mohamedwaled.me/>
