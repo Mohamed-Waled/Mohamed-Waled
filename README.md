@@ -25,11 +25,11 @@ Then I took Responsive Web Design Course at FreeCodeCamp [FCC]:
     - Technical Documentation Page > [Live Site URL 5]
     - Personal Portfolio Webpage > [Live Site URL 6]
 - JavaScript Algorithms and Data Structures with five Projects > [The Certificate 4]
-    - Palindrome Checker
-    - Roman Numeral Converter
-    - Caesars Cipher
-    - Telephone Number Validator
-    - Cash Register
+    - Palindrome Checker > [Check Code Here 1]
+    - Roman Numeral Converter > [Check Code Here 2]
+    - Caesars Cipher > [Check Code Here 3]
+    - Telephone Number Validator > [Check Code Here 4]
+    - Cash Register > [Check Code Here 5]
 
 P.S. You can find all of them with the solutions in the certificate link.
 
@@ -60,14 +60,14 @@ And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as:
     - Fylo Landing Page With Two Column Layout > [Live Site URL 21]
     - Product Preview Card Component > [Live Site URL 22]
 
-Now I'm Just Making Some Websites and App Foe The Purpose of Training and Upgrade My Skills:
+Now I'm Just Making Some Websites and App For The Purpose of Training and Upgrade My Skills:
 
 - Don't Hesitate About Trying Them
     - webSite > [Live Site URL 23]
     - Distance Calculator Between Two Points V 2.0 > [Live Site URL 24]
     - To-Do App > [Live Site URL 25]
 
-And now I'm learning React and I'm Trying to Learn it From The DOCs.
+And now I'm learning React and I'm Learning it From The DOCs.
 
 ### And That's It, Nice to Meet You All ❤️ 👋 .
 
@@ -80,9 +80,7 @@ And now I'm learning React and I'm Trying to Learn it From The DOCs.
 # Some Important Profiles of Mine 💻
 
 - Front-End Mentor - [@Mohamed-Waled2]
-- CSS Battle - [@m_4_]
 - FreeCodeCamp - [@mohamedwaledfarag]
-- Leet Code - [@MohamedWaled]
 
 # Get in Touch 📞
 
@@ -125,14 +123,19 @@ And now I'm learning React and I'm Trying to Learn it From The DOCs.
 [Live Site URL 23]: <https://mohamed-waled.github.io/webSite/>
 [Live Site URL 24]: <https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/>
 [Live Site URL 25]: <https://mohamed-waled.github.io/To-Do-App/>
-[Live Site URL 26]: <https://celebrated-lily-314c2f.netlify.app/>
-[Live Site URL 27]: <https://gleaming-cat-7869fa.netlify.app/>
-[Live Site URL 28]: <https://snazzy-fox-9f6d70.netlify.app/>
-[Live Site URL 29]: <https://eclectic-florentine-7a0829.netlify.app/>
-[Live Site URL 30]: <https://singular-toffee-9e5822.netlify.app/>
+[Live Site URL 26]: <https://random-quote-machine-lyart.vercel.app/>
+[Live Site URL 27]: <https://markdown-previewer-gules.vercel.app/>
+[Live Site URL 28]: <https://drum-machine-opal.vercel.app/>
+[Live Site URL 29]: <https://java-script-calculator-xi.vercel.app/>
+[Live Site URL 30]: <https://a-25-5-clock-coral.vercel.app/>
+[Check Code Here 1]: <https://github.com/Mohamed-Waled/Palindrome-Checker>
+[Check Code Here 2]: <https://github.com/Mohamed-Waled/Roman-Numeral-Converter>
+[Check Code Here 3]: <https://github.com/Mohamed-Waled/Caesars-Cipher>
+[Check Code Here 4]: <https://github.com/Mohamed-Waled/Telephone-Number-Validator>
+[Check Code Here 5]: <https://github.com/Mohamed-Waled/Cash-Register>
 [@mohamed-waled]: <https://www.linkedin.com/in/mohamed-waled-82a51a1bb/>
 [@Mohamed-Waled2]: <https://www.frontendmentor.io/profile/Mohamed-Waled>
 [@m_4_]: <https://cssbattle.dev/player/m_4_>
 [@mohamedwaledfarag]: <https://www.freecodecamp.org/mohamedwaledfarag>
 [@MohamedWaled]: <https://leetcode.com/MohamedWaled/>
-[🔗]: <https://mohamedwaled.me/>
+[🔗]: <https://mohamedwaled.com/>
