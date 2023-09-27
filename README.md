@@ -15,7 +15,7 @@ I've started with an Egyptian free scholarship called Egypt Future Work Is Digit
 - [The Web Development Challenger Track]
 - [Front End Web Development Professional with two projects]
   - [Landing Page]
-  - Weather Journal App
+  - Weather Journal App using Node.js
 
 Then I took Responsive Web Design Course at FreeCodeCamp [FCC]:
 
