@@ -2,6 +2,12 @@
 
 ---
 
+## Some Featured Projects 📌:
+
+- [Call Center Company Website] - A website built using Next.js for a call center company.
+- [Template website] - a Template website built for training using HTML5, CSS3, and Vanilla JavaScript.
+- [Mohamed Wales's Portfolio Website] - My Portfolio Website has been built using React.js.
+
 ## Small Story About Me 👨‍💻:
 
 > Every day is a learning day.
@@ -88,6 +94,9 @@ What comes after this? My ultimate objective is to become a competent and knowle
 - Linkedin - [@mohamed-waled]
 
 [//]: # "This is Comment"
+[Call Center Company Website]: https://callcenter-company.mohamedwaled.com/
+[Template website]: https://landing-page.mohamedwaled.com/
+[Mohamed Wales's Portfolio Website]: https://mohamedwaled.com/
 [egFWD]: https://egfwd.com/?lang=ar
 [FCC]: https://freecodecamp.org/
 [Frontend Mentor]: https://www.frontendmentor.io/
