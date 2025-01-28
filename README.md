@@ -5,7 +5,7 @@
 
 Front-End Development isn't just a bunch of buttons and colors; It extends to understanding someone's ideas and, on top of that, transforming them into a true story by bringing their vision to life!
 
-Over the past two years, I've worked to sharpen my front-end skills by building projects, learning new technologies, and implementing creative ideas. Along the way, I've learned core front-end technologies such as **HTML**, **CSS**, **JavaScript**. I then took my productivity to another level by leveraging tools like **Git**, **GitHub**, **Sass** and **PugJS**, Ending my two-year journey by learning more advanced technologies such as **React.js** and **Next.js* alongside with **Typescript**, **Tailwind CSS** and **Framer Motion**.
+Over the past two years, I've worked to sharpen my front-end skills by building projects, learning new technologies, and implementing creative ideas. Along the way, I've learned core front-end technologies such as **HTML**, **CSS**, **JavaScript**. I then took my productivity to another level by leveraging tools like **Git**, **GitHub**, **Sass** and **PugJS**, Ending my two-year journey by learning more advanced technologies such as **React.js** and **Next.js** alongside with **Typescript**, **Tailwind CSS** and **Framer Motion**.
 
 Currently, I'm stepping further by acquiring new skills in design and animation by diving into libraries such as **GSAP** and **Three.js** and implementing what I've learned in projects.
 
@@ -20,7 +20,7 @@ My future plans can be summarized as leveling up my **problem-solving** skills t
 - [Road to Hero] - An online reading platform for serialized light novels.
 - [RealPros - Call Center Company] - A website highlighting the features and pricing plans of the call center company RealPros.
 - [Landing Page Template] - A versatile website template designed for businesses, offering a range of essential sections to meet various needs.
-- [Random Quote Machine] - A random quote machine <img src="./smart.gif" width="20">
+- [Random Quote Machine] - A random quote machine <img src="./Assets/smart.gif" width="20">
 
 # Technologies 💻:
 
@@ -30,7 +30,7 @@ My future plans can be summarized as leveling up my **problem-solving** skills t
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-waled) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamedwaled.com/)
 
-Also, feel free to reach out at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwaled8642@gmail.com) or send me a message on LinkedIn. Let's cooperate on transforming ideas into remarkable stories!
+Also, feel free to reach out at  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwaled8642@gmail.com)  or send me a message on LinkedIn. Let's cooperate on transforming ideas into remarkable stories!
 
 [//]: # "This is Comment"
 [Road to Hero]: https://road-to-hero.vercel.app/
