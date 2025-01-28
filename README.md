@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=24&letterSpacing=1.5px&pause=500&color=E31B6D&vCenter=true&width=460&lines=Hello%2CWorld!;I'm+Mohamed+Waled.;I'm+a+Front-End+Developer.;Nice+to+meet+you!)](https://git.io/typing-svg)
-# Small Story About Me 👨‍💻:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=24&letterSpacing=1.5px&pause=1000&color=E31B6D&vCenter=true&width=460&lines=Hello%2CWorld!;I'm+Mohamed+Waled.;I'm+a+Front-End+Developer.;Nice+to+meet+you!)](https://git.io/typing-svg)
+# Small Story About Me <img src="./Assets/gifs/typingcat.gif" width="25">:
 
 > *"Programming is thinking, not typing."*
 
@@ -15,18 +15,18 @@ My future plans can be summarized as leveling up my **problem-solving** skills t
 
 **What comes after this?** My ultimate goal is to become a competent and knowledgeable Software Engineer who comprehends their duties and performs them proficiently.
 
-# Some Featured Projects 📌:
+# Some Featured Projects <img src="./Assets/gifs/alert.gif" width="25">:
 
 - [Road to Hero] - An online reading platform for serialized light novels.
 - [RealPros - Call Center Company] - A website highlighting the features and pricing plans of the call center company RealPros.
 - [Landing Page Template] - A versatile website template designed for businesses, offering a range of essential sections to meet various needs.
-- [Random Quote Machine] - A random quote machine <img src="./Assets/smart.gif" width="20">
+- [Random Quote Machine] - A random quote machine <img src="./Assets/gifs/smart.gif" width="25">
 
-# Technologies 💻:
+# Technologies <img src="./Assets/gifs/meow_code.gif" width="25">:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="45" />
 
-# Let's Connect 📞:
+# Let's Cooperate <img src="./Assets/gifs/extreme-teamwork.gif" width="25">:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-waled) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamedwaled.com/)
 
