@@ -20,7 +20,7 @@ My future plans can be summarized as leveling up my **problem-solving** skills t
 - [Road to Hero] - An online reading platform for serialized light novels.
 - [RealPros - Call Center Company] - A website highlighting the features and pricing plans of the call center company RealPros.
 - [Landing Page Template] - A versatile website template designed for businesses, offering a range of essential sections to meet various needs.
-- [Random Quote Machine] - A random quote machine <img src="./Assets/gifs/smart.gif" width="25">
+- [Random Quote Machine] - A random quote machine <img src="./Assets/gifs/smart.gif" width="25">.
 
 # Technologies <img src="./Assets/gifs/meow_code.gif" width="25">:
 
