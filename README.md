@@ -1,150 +1,39 @@
-# Hello, World!! My name is Mohamed Waled 👋 .
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=24&letterSpacing=1.5px&pause=500&color=E31B6D&vCenter=true&width=460&lines=Hello%2CWorld!;I'm+Mohamed+Waled.;I'm+a+Front-End+Developer.;Nice+to+meet+you!)](https://git.io/typing-svg)
+# Small Story About Me 👨‍💻:
 
----
+> *"Programming is thinking, not typing."*
 
-## Some Featured Projects 📌:
+Front-End Development isn't just a bunch of buttons and colors; It extends to understanding someone's ideas and, on top of that, transforming them into a true story by bringing their vision to life!
 
-- [Call Center Company Website] - A website built using Next.js for a call center company.
-- [Template website] - a Template website built for training using HTML5, CSS3, and Vanilla JavaScript.
-- [Mohamed Wales's Portfolio Website] - My Portfolio Website has been built using React.js.
+Over the past two years, I've worked to sharpen my front-end skills by building projects, learning new technologies, and implementing creative ideas. Along the way, I've learned core front-end technologies such as **HTML**, **CSS**, **JavaScript**. I then took my productivity to another level by leveraging tools like **Git**, **GitHub**, **Sass** and **PugJS**, Ending my two-year journey by learning more advanced technologies such as **React.js** and **Next.js* alongside with **Typescript**, **Tailwind CSS** and **Framer Motion**.
 
-## Small Story About Me 👨‍💻:
+Currently, I'm stepping further by acquiring new skills in design and animation by diving into libraries such as **GSAP** and **Three.js** and implementing what I've learned in projects.
 
-> Every day is a learning day.
+in the meantime, I'm aiming to find a remote part-time opportunity as a Front-End Developer. If you're looking for a developer who thinks before he dives, I'd love to connect.
 
-I'm a self-learner -or should I say online learner- who started studying Front-End Development in December 2020. My journey started with an online course on Udacity, which was powered by [egFWD] for web development. This course specialized in Front-End web development and sparked my passion for the subject. Since then, I have been continuously learning about Front-End Development.
+My future plans can be summarized as leveling up my **problem-solving** skills to tackle even more challenging projects.
 
-Since I began my journey, I have gained a lot of knowledge. I have progressed to learning React.js and Next.js, and I am currently putting my skills into practice. By doing so, I can identify the areas I need to improve on to proudly call myself a Front-End Developer.
+**What comes after this?** My ultimate goal is to become a competent and knowledgeable Software Engineer who comprehends their duties and performs them proficiently.
 
-I've started with an Egyptian free scholarship called Egypt Future Work Is Digital [egFWD] powerd by the Ministry of Communication and Information Technology and I've finished the first two levels at it:
+# Some Featured Projects 📌:
 
-- [The Web Development Challenger Track]
-- [Front End Web Development Professional with two projects]
-  - [Landing Page]
-  - Weather Journal App using Node.js
+- [Road to Hero] - An online reading platform for serialized light novels.
+- [RealPros - Call Center Company] - A website highlighting the features and pricing plans of the call center company RealPros.
+- [Landing Page Template] - A versatile website template designed for businesses, offering a range of essential sections to meet various needs.
+- [Random Quote Machine] - A random quote machine <img src="./smart.gif" width="20">
 
-Then I took Responsive Web Design Course at FreeCodeCamp [FCC]:
+# Technologies 💻:
 
-- [Responsive Web Design with five Projects]
-  - [Tribute Page]
-  - [Survey Form]
-  - [Product Landing Page]
-  - [Technical Documentation Page]
-  - [Personal Portfolio Webpage]
-- [JavaScript Algorithms and Data Structures with five Projects]
-  - [Palindrome Checker]
-  - [Roman Numeral Converter]
-  - [Caesars Cipher]
-  - [Telephone Number Validator]
-  - [Cash Register]
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" width="45"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" width="45" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" width="45" />
 
-P.S. You can find all of them with the solutions in the certificate link.
+# Let's Connect 📞:
 
-- [Front End Development Libraries with five Projects]
-  - [Random Quote Machine]
-  - [Markdown Previewer]
-  - [Drum Machine]
-  - [JavaScript Calculator]
-  - [A 25 + 5 Clock]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-waled) [![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://mohamedwaled.com/)
 
-And now I solve challenges at both [Frontend Mentor] and [CSS Battle] such as:
-
-- Frontend Mentore :
-  - [QR Code Component]
-  - [NFT Preview Card Component]
-  - [Order Summary Component]
-  - [Stats Preview Card Component]
-  - [3-Column Preview Card Component]
-  - [Profile Card Component]
-  - [Social Proof Section]
-  - [Four Card Feature Section]
-  - [Single Price Grid Component]
-  - [Huddle Landing Page With a Single Introductory Section]
-  - [Testimonials Grid Section]
-  - [Fylo Data Storage Component]
-  - [Clipboard Landing Page]
-  - [Huddle Landing Page With Alternating Feature Blocks]
-  - [Fylo Landing Page With Two Column Layout]
-  - [Product Preview Card Component]
-
-Now I'm Just Making Some Websites and App For The Purpose of Training and Upgrade My Skills:
-
-- Don't Hesitate About Trying Them
-  - [webSite]
-  - [Distance Calculator Between Two Points V 2.0]
-  - [To-Do App]
-
-What comes after this? My ultimate objective is to become a competent and knowledgeable Software Engineer who comprehends their duties and performs them proficiently.
-
-### And That's It, Nice to Meet You All ❤️ 👋 .
-
----
-
-# My Newly Launched Portfolio Website
-
-- Mohamed Wales's - [🔗]
-
-# Some Important Profiles of Mine 💻
-
-- Front-End Mentor - [@Mohamed-Waled2]
-- FreeCodeCamp - [@mohamedwaledfarag]
-
-# Get in Touch 📞
-
-- Linkedin - [@mohamed-waled]
+Also, feel free to reach out at [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedwaled8642@gmail.com) or send me a message on LinkedIn. Let's cooperate on transforming ideas into remarkable stories!
 
 [//]: # "This is Comment"
-[Call Center Company Website]: https://callcenter-company.mohamedwaled.com/
-[Template website]: https://landing-page.mohamedwaled.com/
-[Mohamed Wales's Portfolio Website]: https://mohamedwaled.com/
-[egFWD]: https://egfwd.com/?lang=ar
-[FCC]: https://freecodecamp.org/
-[Frontend Mentor]: https://www.frontendmentor.io/
-[CSS Battle]: https://cssbattle.dev/
-[Elzero web school]: https://www.youtube.com/c/ElzeroInfo
-[The Web Development Challenger Track]: https://s3-us-west-2.amazonaws.com/udacity-printer/production/certificates/dc0c4d79-c6c8-4a27-95f4-0d7a86d703aa.pdf
-[Front End Web Development Professional with two projects]: https://graduation.udacity.com/confirm/KKHPEC4K
-[Responsive Web Design with five Projects]: https://www.freecodecamp.org/certification/mohamedwaledfarag/responsive-web-design
-[JavaScript Algorithms and Data Structures with five Projects]: https://www.freecodecamp.org/certification/mohamedwaledfarag/javascript-algorithms-and-data-structures
-[Front End Development Libraries with five Projects]: https://www.freecodecamp.org/certification/mohamedwaledfarag/front-end-development-libraries
-[Landing Page]: https://mohamed-waled.github.io/Landing-Page/
-[Tribute Page]: https://mohamed-waled.github.io/Tribute-Page/
-[Survey Form]: https://mohamed-waled.github.io/Survey-Form/
-[Product Landing Page]: https://mohamed-waled.github.io/Product-Landing-Page/
-[Technical Documentation Page]: https://mohamed-waled.github.io/Technical-Documentation-Page/
-[Personal Portfolio Webpage]: https://mohamed-waled.github.io/Personal-Portfolio-Webpage/
-[QR Code Component]: https://mohamed-waled.github.io/QR-Code-Component/
-[NFT Preview Card Component]: https://mohamed-waled.github.io/NFT-Preview-Card-Component/
-[Order Summary Component]: https://mohamed-waled.github.io/Order-Summary-Component/
-[Stats Preview Card Component]: https://mohamed-waled.github.io/Stats-Preview-Card-Component/
-[3-Column Preview Card Component]: https://mohamed-waled.github.io/3-Column-Preview-Card-Component/
-[Profile Card Component]: https://mohamed-waled.github.io/Profile-Card-Component/
-[Social Proof Section]: https://mohamed-waled.github.io/Social-Proof-Section/
-[Four Card Feature Section]: https://mohamed-waled.github.io/Four-Card-Feature-Section/
-[Single Price Grid Component]: https://mohamed-waled.github.io/Single-Price-Grid-Component/
-[Huddle Landing Page With a Single Introductory Section]: https://mohamed-waled.github.io/Huddle-Landing-Page-With-a-Single-Introductory-Section/
-[Testimonials Grid Section]: https://mohamed-waled.github.io/Testimonials-Grid-Section/
-[Fylo Data Storage Component]: https://mohamed-waled.github.io/Fylo-Data-Storage-Component/
-[Clipboard Landing Page]: https://mohamed-waled.github.io/Clipboard-Landing-Page/
-[Huddle Landing Page With Alternating Feature Blocks]: https://mohamed-waled.github.io/Huddle-Landing-Page-With-Alternating-Feature-Blocks/
-[Fylo Landing Page With Two Column Layout]: https://mohamed-waled.github.io/Fylo-Landing-Page-With-Two-Column-Layout/
-[Product Preview Card Component]: https://mohamed-waled.github.io/Product-Preview-Card-Component/
-[webSite]: https://mohamed-waled.github.io/webSite/
-[Distance Calculator Between Two Points V 2.0]: https://mohamed-waled.github.io/Distance-Calculator-Between-Two-Points-V-2.0/
-[To-Do App]: https://mohamed-waled.github.io/To-Do-App/
+[Road to Hero]: https://road-to-hero.vercel.app/
+[RealPros - Call Center Company]: https://callcenter-company.mohamedwaled.com/
+[Landing Page Template]: https://landing-page.mohamedwaled.com/
 [Random Quote Machine]: https://random-quote-machine-lyart.vercel.app/
-[Markdown Previewer]: https://markdown-previewer-gules.vercel.app/
-[Drum Machine]: https://drum-machine-opal.vercel.app/
-[JavaScript Calculator]: https://java-script-calculator-xi.vercel.app/
-[A 25 + 5 Clock]: https://a-25-5-clock-coral.vercel.app/
-[Palindrome Checker]: https://github.com/Mohamed-Waled/Palindrome-Checker
-[Roman Numeral Converter]: https://github.com/Mohamed-Waled/Roman-Numeral-Converter
-[Caesars Cipher]: https://github.com/Mohamed-Waled/Caesars-Cipher
-[Telephone Number Validator]: https://github.com/Mohamed-Waled/Telephone-Number-Validator
-[Cash Register]: https://github.com/Mohamed-Waled/Cash-Register
-[@mohamed-waled]: https://www.linkedin.com/in/mohamed-waled-82a51a1bb/
-[@Mohamed-Waled2]: https://www.frontendmentor.io/profile/Mohamed-Waled
-[@m_4_]: https://cssbattle.dev/player/m_4_
-[@mohamedwaledfarag]: https://www.freecodecamp.org/mohamedwaledfarag
-[@MohamedWaled]: https://leetcode.com/MohamedWaled/
-[🔗]: https://mohamedwaled.com/
